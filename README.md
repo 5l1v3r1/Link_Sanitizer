@@ -7,6 +7,6 @@ Ip addresses become: 55[.]55[.]55[.]55
 
 HTTP/S becomes: HXXP/S
 
-Usage: link_sanitizer.py <file-to-sanitize>
+Usage: link_sanitizer.py \<file-to-sanitize\>
   
 REMEMBER, use with copies ony!
